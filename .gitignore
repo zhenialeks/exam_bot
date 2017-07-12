@@ -104,3 +104,4 @@ ENV/
 secret.py
 screenlog.0
 temp.db
+.screenrc
